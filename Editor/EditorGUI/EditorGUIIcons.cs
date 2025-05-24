@@ -15,6 +15,7 @@ namespace MFramework.EditorExtensions
         public static Texture TaikrCommunity { get; }
         public static Texture UnityCommunity { get; }
         public static Texture FantasyCommunity { get; }
+        public static Texture LotusLeafCheckGree { get; }
 
         static EditorGUIIcons()
         {
@@ -28,7 +29,7 @@ namespace MFramework.EditorExtensions
             TaikrCommunity = Resources.Load<Texture>("Icons/TaikrCommunity_Icon");
             UnityCommunity = Resources.Load<Texture>("Icons/UnityCommunity_Icon");
             FantasyCommunity = Resources.Load<Texture>("Icons/FantasyCommunity_Icon");
-            
+            LotusLeafCheckGree = Resources.Load<Texture>("Icons/icons8-lotusLeafCheck-green-32");
         }
     }
 }
