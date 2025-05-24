@@ -1,0 +1,16 @@
+{
+  "name": "com.pixelsmao.mframework.editorextensions",
+  "version": "0.1.0",
+  "displayName": "MFramework.EditorExtensions",
+  "description": "MFramework框架的编辑器拓展部分。",
+  "unity": "2023.3",
+  "author": {
+    "name": "Pixelsmao",
+    "email": "1351820946@qq.com"
+  },
+  "documentation": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixelsmao/MFramework.EditorExtensions.git"
+  }
+}
