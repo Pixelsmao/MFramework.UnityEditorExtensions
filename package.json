@@ -1,7 +1,7 @@
 {
-  "name": "com.pixelsmao.mframework.editorextensions",
+  "name": "com.pixelsmao.mframework.unityeditorextensions",
   "version": "0.1.0",
-  "displayName": "MFramework.EditorExtensions",
+  "displayName": "MFramework.UnityEditorExtensions",
   "description": "MFramework框架的编辑器拓展部分。",
   "unity": "2023.3",
   "author": {
@@ -11,6 +11,6 @@
   "documentation": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pixelsmao/MFramework.EditorExtensions.git"
+    "url": "https://github.com/Pixelsmao/MFramework.UnityEditorExtensions.git"
   }
 }
